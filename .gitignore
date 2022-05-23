@@ -131,3 +131,5 @@ data/
 datasets/
 .gz
 .pth
+
+images/
